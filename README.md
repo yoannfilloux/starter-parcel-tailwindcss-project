@@ -3,6 +3,16 @@ Projet de démarrage parcel avec tailwindcss
 https://tailwindcss.com/docs/guides/parcel
 
 # Installation
+
+Créez un fichier .postcssrc à la racine de votre projet et activez le plug-in tailwindcss.
+``` 
+{
+  "plugins": {
+    "tailwindcss": {}
+  }
+}
+```
+
 ``` 
 npm install
 npx parcel src/index.html
