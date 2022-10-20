@@ -5,7 +5,7 @@ https://tailwindcss.com/docs/guides/parcel
 # Installation
 ``` 
 npm install
-npm run start
+npx parcel src/index.html
 ```
 
 And then go to `localhost:1234`
