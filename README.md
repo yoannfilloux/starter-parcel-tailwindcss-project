@@ -12,7 +12,7 @@ Créez un fichier .postcssrc à la racine de votre projet et activez le plug-in 
   }
 }
 ```
-
+Puis lancer:
 ``` 
 npm install
 npx parcel src/index.html
